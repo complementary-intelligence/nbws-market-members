@@ -265,21 +265,31 @@ import { ServiceItem } from "../types/serviceTypes";
     ],
     imageUrl: "path/to/tonysmamaspicyhotsauce/image.jpg", // Substitute with the actual image path
     link: "https://www.tsmhotsauce.com"
-}
+},
 	{
-		id: 22,
-		title: "Walnut Life",
-		description: "",
-		bulletPoints: [],
-		imageUrl: "",
-		link: "",
-	},
+    id: 22,
+    title: "Walnut Life",
+    description: "Walnut Life is the brainchild of Deborah Fleming, a visionary dedicated to transforming health and wellness through plant-based nutrition. Born from the success of The WOW Factor program and a passion for healthy living, Walnut Life offers walnut-based meat replacements like walnut Pâtè and walnut taco meat. These products are not just food; they're a testament to the power of plant-based eating in combating lifestyle diseases. Walnut Life is more than a brand; it's a movement towards a healthier, more sustainable way of living, embodying the essence of living close to Mother Nature and embracing the best nutrition daily.",
+    bulletPoints: [
+        "Creator Deborah Fleming's journey from gardening volunteer to CEO, highlighting the brand's roots in community health.",
+        "Testimonials praising the unique taste and health benefits of Walnut Life products, emphasizing their role in plant-based diets.",
+        "The brand's philosophy of 'Living That Walnut Life', advocating for a lifestyle harmonious with nature and focused on wellness.",
+        "Products designed for those seeking delicious, plant-based alternatives to meat, enriching meals without compromising flavor."
+    ],
+    imageUrl: "path/to/walnutlife/image.jpg", // Substitute with the actual image path
+    link: "https://www.walnutlife.co"
+},
 	{
-		id: 23,
-		title: "YOL Juice",
-		description: "",
-		bulletPoints: [],
-		imageUrl: "",
-		link: "",
-	},
+    id: 23,
+    title: "YOL Juice",
+    description: "Y.O.L Juice Market, spearheaded by Alisha Williams, revolutionizes health and wellness accessibility in Stonecrest with its vibrant range of smoothies, smoothie bowls, kale wraps, salads, and wellness juices. Emphasizing a philosophy of 'Drink Life, Eat Life, Be Life', Y.O.L Juice Market stands as a beacon of change, inspiring the community towards a healthier lifestyle. Alisha's journey from battling post-partum depression and reproductive issues to discovering the transformative power of an alkaline vegan diet underscores the market's mission: to empower individuals to heal from within and embrace a life of vitality and wellness.",
+    bulletPoints: [
+        "A rich menu featuring smoothie bowls like Cherry Berry and Pineapple Paradise, alongside wellness juices and hot tea, caters to a diverse palette.",
+        "Innovative kale wraps and a selection of salads offer nutritious meal options, all served with a focus on organic and plant-based ingredients.",
+        "Owner Alisha Williams' personal journey from health struggles to wellness triumphs, infusing her passion for accessible health food options into every aspect of Y.O.L Juice Market.",
+        "Customized health and nutrition consultations available, empowering customers to align their diet with their wellness goals."
+    ],
+    imageUrl: "path/to/yoljuice/image.jpg", // Substitute with the actual image path
+    link: "https://www.yoljuicemarket.com"
+},
 ];
