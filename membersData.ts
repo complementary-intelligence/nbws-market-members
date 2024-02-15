@@ -205,13 +205,18 @@ import { ServiceItem } from "../types/serviceTypes";
     link: "https://shopqvibeatl.com"
 }
 	{
-		id: 16,
-		title: "GoHam Rage Rooms",
-		description: "",
-		bulletPoints: [],
-		imageUrl: "",
-		link: "",
-	},
+    id: 16,
+    title: "GoHam Rage Rooms",
+    description: "Atlanta's premier destination for unleashing your inner rage in a safe and controlled environment. Located in Stonecrest, GA, GoHam Rage Rooms offers a unique experience allowing individuals to vent stress and have fun by smashing objects within a mobile rage room setup. Our services include providing all necessary smashables, bashables, protective gear, and cleanup, ensuring a destructible yet safe experience for everyone.",
+    bulletPoints: [
+        "Mobile Rage Room services for events with 100 smashables, bashables, and all safety gear provided.",
+        "Recycling program to ensure environmentally responsible disposal of all smashables and bashables.",
+        "Fundraising opportunities for schools and organizations looking for unique ways to raise money.",
+        "Strict safety guidelines to ensure a fun and safe smashing experience for all participants."
+    ],
+    imageUrl: "path/to/gohamragerooms/image.jpg", // Substitute with the actual image path
+    link: "https://www.gohamatl.com"
+}
 	{
 		id: 17,
 		title: "S and B Tax",
@@ -237,13 +242,18 @@ import { ServiceItem } from "../types/serviceTypes";
 		link: "",
 	},
 	{
-		id: 20,
-		title: "Tea Amour",
-		description: "",
-		bulletPoints: [],
-		imageUrl: "",
-		link: "",
-	},
+    id: 20,
+    title: "Tea Amour",
+    description: "Tea Amour offers a refined collection of high-quality organic teas, each carefully crafted to promote health and wellness. Our selection spans from rejuvenating Ginger Root Tea to the calming effects of Lemongrass Tea, embodying our vision of sharing the passion for tea while contributing to global health and environmental sustainability.",
+    bulletPoints: [
+        "Promotes health and wellness through a diverse selection of organic teas.",
+        "Dedicated to sustainability with a commitment to recycling and using compostable goods.",
+        "Supports local food banks and shelters, embodying a mission beyond just selling tea.",
+        "Features a wide range of teas including Ginger Root Tea, Pu-erh Turmeric Green Tea, and Jasmine Green Tea, catering to all preferences."
+    ],
+    imageUrl: "path/to/teaamour/image.jpg", // Substitute with the actual image path
+    link: "https://teaamour.com"
+}
 	{
 		id: 21,
 		title: "Tonys Mama Spicy Hot Sauce",
