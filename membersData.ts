@@ -16,8 +16,7 @@ import { ServiceItem } from "../types/serviceTypes";
 		],
 		imageUrl: "path/to/aromex-logo.png",
 		link: "https://aromexair.com/"
-	  }
-	  ,
+	  },
 	{
 		id: 2,
 		title: "Atl Everything",
@@ -73,7 +72,7 @@ import { ServiceItem } from "../types/serviceTypes";
     ],
     imageUrl: "path/to/crown-jewel-sentiments-logo.png",
     link: "https://crownjewelscent.com",
-}
+},
 	{
   id: 6,
   title: "Elo Vegan",
@@ -90,7 +89,7 @@ import { ServiceItem } from "../types/serviceTypes";
   ],
   imageUrl: "path/to/elo-vegan-logo.png",
   link: "https://helloelo.co",
-}
+},
 	{
     id: 7,
     title: "Especially Yours Cuisine",
@@ -163,7 +162,7 @@ import { ServiceItem } from "../types/serviceTypes";
     ],
     "imageUrl": "",
     "link": "https://www.livelyupicells.com"
-}
+},
 	{
     "id": 13,
     "title": "Mothers Gold",
@@ -203,7 +202,7 @@ import { ServiceItem } from "../types/serviceTypes";
     ],
     imageUrl: "path/to/qvibeessentials/image.jpg", // Substitute with actual image path
     link: "https://shopqvibeatl.com"
-}
+},
 	{
     id: 16,
     title: "GoHam Rage Rooms",
@@ -253,15 +252,20 @@ import { ServiceItem } from "../types/serviceTypes";
     ],
     imageUrl: "path/to/teaamour/image.jpg", // Substitute with the actual image path
     link: "https://teaamour.com"
-}
+},
 	{
-		id: 21,
-		title: "Tonys Mama Spicy Hot Sauce",
-		description: "",
-		bulletPoints: [],
-		imageUrl: "",
-		link: "",
-	},
+    id: 21,
+    title: "Tony's Mama Spicy Hot Sauce",
+    description: "Tony's Spicy Mama Hot Sauce is a delightful journey into the world of heat and flavor, expertly crafted to enhance any meal. Our sauce combines the richness of all-natural, plant-based ingredients with a unique carrot base, offering a spectrum of flavors from sweet Mango to fiery Red Savina. Perfect for the health-conscious and flavor-seekers alike, our sauces are Non-GMO, Gluten-Free, and Low Sodium, making every dish an adventure without compromise.",
+    bulletPoints: [
+        "Crafted from all-natural, 100% plant-based ingredients for a healthy, guilt-free spice.",
+        "Offers a diverse range of flavors including Mango, Garlic, Habanero, Scotch Bonnet, Chipotle, and Red Savina to suit all taste preferences.",
+        "Non-GMO, Gluten-Free, and Low Sodium, catering to health-conscious individuals.",
+        "Supports philanthropic efforts, with proceeds aiding medical costs, scholarships, and more, embodying our mission of loving, living, and giving."
+    ],
+    imageUrl: "path/to/tonysmamaspicyhotsauce/image.jpg", // Substitute with the actual image path
+    link: "https://www.tsmhotsauce.com"
+}
 	{
 		id: 22,
 		title: "Walnut Life",
