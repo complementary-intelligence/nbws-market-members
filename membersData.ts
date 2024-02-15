@@ -75,21 +75,36 @@ import { ServiceItem } from "../types/serviceTypes";
     link: "https://crownjewelscent.com",
 }
 	{
-		id: 6,
-		title: "Elo Vegan",
-		description: "",
-		bulletPoints: [],
-		imageUrl: "",
-		link: "",
-	},
+  id: 6,
+  title: "Elo Vegan",
+  description: "Elo Vegan is on a mission to make sustainability sexy. We are building an authentic ecosystem of creatives passionate about sustainable luxury. From aromatherapy and ceramic diffusers to body wash bars and the softest lip balms, every product is designed with intentionality and luxury, reducing waste beautifully.",
+  bulletPoints: [
+    "GEORGE AROMATHERAPY | BERGAMOT + BLACK TEA: Experience the scent more with less through our aromatherapy collection.",
+    "TURN YOUR HOME INTO A HOTEL with our ceramic diffusers.",
+    "RICH LATHER BODY WASH BARS now available for a luxurious, eco-friendly cleanse.",
+    "REDUCE WASTE BEAUTIFULLY with our refill station, offering recyclable glass pods for aromatherapy sprays.",
+    "THE SOFTEST LIPS EVER with our returning favorite lip balms for the best lip care.",
+    "STAY SAFE AND CLEAN with our moisturizing sanitizer, combining cleanliness with skincare.",
+    "SHOP IN PERSON at our concept studio at New Black Wall St, embodying our mission to make sustainability sexy.",
+    "INTENTIONAL BATHING with the all-over wash bar - for face, body, and hair, combining the best of nature for beautiful solutions."
+  ],
+  imageUrl: "path/to/elo-vegan-logo.png",
+  link: "https://helloelo.co",
+}
 	{
-		id: 7,
-		title: "Especially Yours Cuisine",
-		description: "",
-		bulletPoints: [],
-		imageUrl: "",
-		link: "",
-	},
+    id: 7,
+    title: "Especially Yours Cuisine",
+    description: "Premium personal chef and event catering services offering a wide range of culinary delights tailored to your taste and occasion.",
+    bulletPoints: [
+        "Personalized meal planning and preparation",
+        "Special occasion and dinner party catering",
+        "Healthy and nutritious meal options",
+        "Convenience and time-saving for busy professionals",
+        "High-quality, fresh ingredients for every meal"
+    ],
+    imageUrl: "path/to/image.jpg",
+    link: "https://www.especiallyyourscuisine.com",
+},
 	{
 		id: 8,
 		title: "Ginger Yums",
