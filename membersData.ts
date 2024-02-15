@@ -44,13 +44,19 @@ import { ServiceItem } from "../types/serviceTypes";
   link: "https://www.blingspirations.com",
 },
 	{
-		id: 4,
-		title: "Crystal Knows Beauty",
-		description: "",
-		bulletPoints: [],
-		imageUrl: "",
-		link: "",
-	},
+  id: 4,
+  title: "Crystal Knows Beauty",
+  description: "Founded by Certified Trichologist Crystal Styles Cuthpert, Crystal Knows Beauty is a brand dedicated to health, beauty, and wellness. Through extensive travel and workshops, Crystal offers in-depth knowledge on self-care, empowering individuals with the right tools for their beauty and health regimes. Emphasizing the importance of personal care, the brand also offers B'About Self Care supplements, catering to the nutritional needs of those leading busy lives.",
+  bulletPoints: [
+    "Certified Trichologist offering scalp and hair analysis",
+    "Engages with consumers globally through workshops, expos, and seminars",
+    "Founded B’About Self Care supplements for additional nutritional support",
+    "Products include a range of vegan and vegetarian-friendly vitamins and supplements",
+    "Committed to personal wellness and providing motivational inspiration"
+  ],
+  imageUrl: "path/to/crystal-knows-beauty-logo.png",
+  link: "https://beaboutselfcare.com",
+},
 	{
 		id: 5,
 		title: "Crown Jewel Sentiments",
