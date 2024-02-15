@@ -58,13 +58,22 @@ import { ServiceItem } from "../types/serviceTypes";
   link: "https://beaboutselfcare.com",
 },
 	{
-		id: 5,
-		title: "Crown Jewel Sentiments",
-		description: "",
-		bulletPoints: [],
-		imageUrl: "",
-		link: "",
-	},
+    id: 5,
+    title: "Crown Jewel Sentiments",
+    description: "Crown Jewel Scentiments Co. is a Bath, Body, and Home product company based in Atlanta, Georgia, inspired by the special bond between mother and daughter. Our products range from scented wax candles to bath and spa products, all designed with creativity, love, and passion. Discover the 'Crown Jewel' within you with our scentsational products designed to create memorable moments.",
+    bulletPoints: [
+        "Soy-based, hand-poured scented wax candles",
+        "Inspired by the love between mother and daughter",
+        "Creatively designed fragranced candles, bath, and spa products",
+        "Specialty packaging for that personal touch",
+        "Wide range of products to accent any room or occasion",
+        "Handcrafted gift packaging for a special personal touch",
+        "Products include candles, wax melts, aroma beads, lotion bars, and more",
+        "Fragrances designed for every mood, including Aloha Orchid, Black Sea, Caribbean Teakwood, and many more"
+    ],
+    imageUrl: "path/to/crown-jewel-sentiments-logo.png",
+    link: "https://crownjewelscent.com",
+}
 	{
 		id: 6,
 		title: "Elo Vegan",
