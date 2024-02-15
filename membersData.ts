@@ -206,7 +206,7 @@ import { ServiceItem } from "../types/serviceTypes";
 }
 	{
 		id: 16,
-		title: "Rage Room",
+		title: "GoHam Rage Room",
 		description: "",
 		bulletPoints: [],
 		imageUrl: "",
