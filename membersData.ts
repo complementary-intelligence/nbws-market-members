@@ -114,13 +114,20 @@ import { ServiceItem } from "../types/serviceTypes";
 		link: "",
 	},
 	{
-		id: 9,
-		title: "It's All Good And Then Some",
-		description: "",
-		bulletPoints: [],
-		imageUrl: "",
-		link: "",
-	},
+  "id": 9,
+  "title": "It's All Good And Then Some",
+  "description": "It's All Good & Then Some offers a refreshing escape with our real-fruit Italian Ices, embodying the spirit of optimism and gratitude. Dive into our delicious world where each frozen treat is a burst of flavor and joy, made to brighten your day.",
+  "bulletPoints": [
+    "Real fruit Italian Ices for an unmatched, delicious taste",
+    "A variety of flavors from classic to tropical to suit every palate",
+    "Dairy-free, vegan-friendly frozen dessert options",
+    "Smoothies and additional treats for a complete refreshment experience",
+    "Convenient serving options from waffle bowls to half gallons",
+    "Available in multiple locations around Georgia for easy access"
+  ],
+  "imageUrl": "path/to/image",
+  "link": "https://itsallgoodthensome.com"
+},
 	{
 		id: 10,
 		title: "Jay's Gift Shop",
@@ -130,37 +137,60 @@ import { ServiceItem } from "../types/serviceTypes";
 		link: "",
 	},
 	{
-		id: 11,
-		title: "Kuba Kingdom",
-		description: "",
-		bulletPoints: [],
-		imageUrl: "",
-		link: "",
-	},
+    "id": 11,
+    "title": "Kuba Kingdom",
+    "description": "Kuba Kingdom, LLC specializes in personalized African-sourced fabric and styles for every occasion, from home decor to cultural wedding attire. Offering a wide selection of beautifully crafted clothing and home items, we ensure every need is met with exceptional service and affordable prices.",
+    "bulletPoints": [
+        "Personalized services for fabric and style selection",
+        "Wide range of African-sourced clothing for couples and individuals",
+        "Special cultural clothing and accessories for African weddings",
+        "Home decor items including tablecloths, runners, and cushions",
+        "Prompt service and affordable pricing for high-quality African fabric and fashions"
+    ],
+    "imageUrl": "https://kubakingdomllc.com/images/kuba-kingdom-banner.jpg",
+    "link": "https://kubakingdomllc.com"
+},
 	{
-		id: 12,
-		title: "LivelyupIcells",
-		description: "",
-		bulletPoints: [],
-		imageUrl: "",
-		link: "",
-	},
+    "id": 12,
+    "title": "LivelyupIcells",
+    "description": "Lively Up I Cells is a vibrant, family-owned Caribbean restaurant offering a unique blend of plant-based cuisine that's soy-free, gluten-free, non-GMO, and crafted with fresh organic herbs & produce. Dive into the high vibrations of our indigenous Caribbean dishes cooked with love and flavored to perfection.",
+    "bulletPoints": [
+        "Indigenous Caribbean plant-based cuisine",
+        "Soy-free, gluten-free, and non-GMO ingredients",
+        "Cooked with fresh organic herbs & produce",
+        "Supports local farmers and promotes environmental sustainability",
+        "Owned by Atlanta's rising stars, Conroy Gooden and Ashley Martin"
+    ],
+    "imageUrl": "",
+    "link": "https://www.livelyupicells.com"
+}
 	{
-		id: 13,
-		title: "Mothers Gold",
-		description: "",
-		bulletPoints: [],
-		imageUrl: "",
-		link: "",
-	},
+    "id": 13,
+    "title": "Mothers Gold",
+    "description": "Embodying the essence of ‘Organic Elegance’, Mother’s Gold Shea Butter offers a luxurious, deeply nourishing experience with its rich, natural composition. Experience the revitalizing and hydrating benefits of our premium shea butter, sourced from the finest organic farms.",
+    "bulletPoints": [
+        "Moisturizing Properties: Deep hydration leaving skin soft and supple.",
+        "Natural Ingredients: Pure, organic shea butter ensuring a safe and chemical-free experience.",
+        "Anti-Aging Effects: Helps reduce wrinkles and boosts skin elasticity.",
+        "Versatility: Can be used on the face, body, hands, and hair.",
+        "Healing Qualities: Soothes skin irritations with its anti-inflammatory properties."
+    ],
+    "imageUrl": "",
+    "link": "https://mothersgold.com/"
+},
 	{
-		id: 14,
-		title: "Motique",
-		description: "",
-		bulletPoints: [],
-		imageUrl: "",
-		link: "",
-	},
+    id: 14,
+    title: "Motique",
+    description: "Motique stands as the epitome of unapologetically feminine fashion, offering a unique blend of edge, style, class, and simplicity. Our collection is carefully curated to elevate your wardrobe with pieces that embody the modern woman's spirit. With a focus on turning heads and setting trends, Motique is dedicated to providing outfits that blend classic elements with a modern twist. From enchanting island dresses to sophisticated jumpsuits and versatile sets, each piece is designed to enhance and reflect the individuality of the wearer. Embrace your unique style with Motique's fashion-forward pieces, designed to make every moment a statement of elegance and confidence.",
+    bulletPoints: [
+        "Unapologetically feminine fashion that blends edge, style, class, and simplicity.",
+        "A unique collection that includes dresses, jumpsuits, sets, and more, designed for the modern woman.",
+        "Fashion-forward pieces that combine classic trends with contemporary style, ensuring you always stand out.",
+        "Dedicated to enhancing individuality and confidence through sophisticated and dynamic styles."
+    ],
+    imageUrl: "path/to/motique/image.jpg", // Substitute with actual image path
+    link: "https://www.shopmotique.com"
+},
 	{
 		id: 15,
 		title: "Q Vibe Essentials",
