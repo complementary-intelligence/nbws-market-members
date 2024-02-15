@@ -29,7 +29,7 @@ import { ServiceItem } from "../types/serviceTypes";
 	{
 		id: 3,
 		title: "Blingspirations",
-		description: "",
+		description: "Custom Designed T-Shirts, Apparel and More",
 		bulletPoints: [],
 		imageUrl: "",
 		link: "",
