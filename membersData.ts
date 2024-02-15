@@ -192,13 +192,18 @@ import { ServiceItem } from "../types/serviceTypes";
     link: "https://www.shopmotique.com"
 },
 	{
-		id: 15,
-		title: "Q Vibe Essentials",
-		description: "",
-		bulletPoints: [],
-		imageUrl: "",
-		link: "",
-	},
+    id: 15,
+    title: "Q Vibe Essentials",
+    description: "Q Vibe Essentials redefines urban lifestyle fashion with its unique blend of vibrant styles and accessories. Specializing in both men's and women's fashion, our brand brings a fresh perspective to vibrant living through our exclusive collections. The Bruno Capelo collections, featuring a variety of colors and designs, embody sophistication and vibrant style, making each piece a statement of individuality. Our commitment to providing high-quality, fashionable pieces is unwavering, as we continue to cater to those who appreciate style that stands out.",
+    bulletPoints: [
+        "Urban Lifestyle Brand specializing in vibrant styles and accessories for men and women.",
+        "Exclusive Bruno Capelo collections, offering a range of colors and designs from Purple/Gold to Black/Red.",
+        "A unique blend of sophistication, style, and vibrant fashion for the modern individual.",
+        "Dedicated to high-quality, standout fashion pieces that embody individuality and urban elegance."
+    ],
+    imageUrl: "path/to/qvibeessentials/image.jpg", // Substitute with actual image path
+    link: "https://shopqvibeatl.com"
+}
 	{
 		id: 16,
 		title: "Rage Room",
