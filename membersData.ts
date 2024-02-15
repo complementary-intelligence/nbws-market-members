@@ -215,7 +215,7 @@ import { ServiceItem } from "../types/serviceTypes";
     ],
     imageUrl: "path/to/gohamragerooms/image.jpg", // Substitute with the actual image path
     link: "https://www.gohamatl.com"
-}
+},
 	{
 		id: 17,
 		title: "S and B Tax",
